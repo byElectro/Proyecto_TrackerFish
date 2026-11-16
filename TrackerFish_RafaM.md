@@ -14,7 +14,7 @@ titlepage-background: img/portada.png
 toc-own-page: true
 toc-title: Continguts
 toc-depth: 2
-header-left: Introducció a Tracker
+header-left: Introducció a TrackerFish
 header-right: Curs 2026-2027
 footer-left: IES María Enríquez
 footer-right: \thepage/\pageref{LastPage}
