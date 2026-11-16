@@ -5,19 +5,20 @@ subtitle: Transformació des de Markdown
 author: Rafa Mompó Espí
 abstract:
 lang: ca
+header-includes:
+  - '\usepackage{lastpage}'
 titlepage: true
 titlepage-rule-height: 0
 titlepage-rule-color: "00FF1D"
 titlepage-background: img/portada.png
 toc-own-page: true
 toc-title: Continguts
+toc-depth: 2
 header-left: Introducció a Tracker
 header-right: Curs 2026-2027
 footer-left: IES María Enríquez
 footer-right: \thepage/\pageref{LastPage}
 ---
-
-# MÓDULO PROYECTO - Índice propuesto (borrador)
 
 # 1. Introducció
 
